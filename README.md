@@ -1,4 +1,4 @@
-# GİTHUB PAGES NESTED
+# Github Pages Nested
 
 https://hicrandn.github.io/Github-Pages/Landing%20Page/
 
